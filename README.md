@@ -29,9 +29,9 @@ This is a simple Python project simulating the basic functions of an ATM machine
 4. Exit the program by selecting option 6.
 
 **Example**
-• Choose an option: 2
-• Enter amount to withdraw: 200
-• Withdrawal successful! New balance is: 800
+- Choose an option: 2
+- Enter amount to withdraw: 200
+- Withdrawal successful! New balance is: 800
 
 **Contributing**
 Feel free to fork this repository and submit pull requests for any improvements or additional features you would like to add!
