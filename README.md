@@ -1,4 +1,4 @@
-# ATM---Machine---Simulation
+# ATM-Machine-Simulation
 **ATM Machine Simulation**
 This is a simple Python project simulating the basic functions of an ATM machine. It allows users to perform essential banking operations such as balance inquiry, cash withdrawal, cash deposit, PIN change, and view transaction history.
 
@@ -18,20 +18,20 @@ This is a simple Python project simulating the basic functions of an ATM machine
 
 **Usage**
 1. Run the script, and you will be prompted with the following menu:
-   -Balance Inquiry
-   -Cash Withdrawal
-   -Cash Deposit
-   -PIN Change
-   -Transaction History
-   -Exit
+  - Balance Inquiry
+  - Cash Withdrawal
+  - Cash Deposit
+  - PIN Change
+  - Transaction History
+  - Exit
 2. Enter the corresponding number to perform the desired operation.
 3. Follow the on-screen instructions to interact with the ATM system, such as entering the amount to withdraw or deposit, changing the PIN, and viewing the transaction history.
 4. Exit the program by selecting option 6.
 
 **Example**
-Choose an option: 2
-Enter amount to withdraw: 200
-Withdrawal successful! New balance is: 800
+• Choose an option: 2
+• Enter amount to withdraw: 200
+• Withdrawal successful! New balance is: 800
 
 **Contributing**
 Feel free to fork this repository and submit pull requests for any improvements or additional features you would like to add!
