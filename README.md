@@ -10,9 +10,9 @@ This is a simple Python project simulating the basic functions of an ATM machine
 *Transaction History*: View the history of all transactions performed.
 
 **Installation**
-*Clone the repository*: git clone https://github.com/AnamikaGupta12/ATM-Machine-Simulation.git
-*Navigate to the project directory*: cd ATM-Machine-Simulation
-*Run the Python script*: python atm_simulation.py
+- *Clone the repository*: git clone https://github.com/AnamikaGupta12/ATM-Machine-Simulation.git
+- *Navigate to the project directory*: cd ATM-Machine-Simulation
+- *Run the Python script*: python atm_simulation.py
 
 **Note**: Make sure you have Python 3.x installed on your machine.
 
