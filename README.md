@@ -3,10 +3,15 @@
 This is a simple Python project simulating the basic functions of an ATM machine. It allows users to perform essential banking operations such as balance inquiry, cash withdrawal, cash deposit, PIN change, and view transaction history.
 
 **Features**
+
 *Account Balance Inquiry*: Check your current account balance.
+
 *Cash Withdrawal*: Withdraw a specified amount from your account.
+
 *Cash Deposit*: Deposit a specified amount into your account.
+
 *PIN Change*: Change your account PIN for security.
+
 *Transaction History*: View the history of all transactions performed.
 
 **Installation**
